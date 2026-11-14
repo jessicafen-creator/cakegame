@@ -1,0 +1,6 @@
+{
+  "name": "可可台灣・千層疊疊樂",
+  "description": "融合台灣在地水果與手繪烘焙坊美學的 2D 鐘擺疊蛋糕手機遊戲，挑戰疊出最高台灣風味巧克力塔。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
